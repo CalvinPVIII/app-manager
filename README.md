@@ -6,7 +6,7 @@
 
 ## Description
 
-_App Manager is a collection of various ruby apps created during one day of the Epicodus Ruby track. It features a script that allows user to choose what app they want to use. The apps include, allergy tracker, coin counter, and prime number generator. _
+_App Manager is a collection of various ruby apps created during one day of the Epicodus Ruby track. It features a script that allows user to choose what app they want to use. The apps include, allergy tracker, coin counter, and prime number generator._
 
 
 
